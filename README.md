@@ -4,4 +4,4 @@
 ### Tutorial Penggunaan GIT
 koda tag untuk paragraf adalah '<p>'
 ini adalah tampilannya
-![Gambar 1](ss1.png)
+![Gambar 1](Lab_screenshot/ss1.png)
